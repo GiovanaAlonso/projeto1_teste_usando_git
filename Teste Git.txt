@@ -1,0 +1,2 @@
+Olá, este é um teste
+O objetivo aqui é apenas treinar versionamento pelo git
